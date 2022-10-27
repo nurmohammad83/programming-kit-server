@@ -14,7 +14,7 @@
     "des": "You’ll find learning CSS essential in styling websites. Web developers use it to build on basic HTML and add personality to plain text pages. This course helps you expand your coding foundation and gives you CSS interactive practice to start adding colors and background images or editing layouts so you can create your very own, unique stylized web pages."
   },
   {
-    "_id": "63581318fb8bc5de7922e637",
+    "_id": "64581318fb8bc5de7922e637",
     "courses_id": 3,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT998V233uz_xAAm3Pj-yBC71HY-_9UGdogpA&usqp=CAU",
     "name": "BOOTSTRAP",
@@ -23,7 +23,7 @@
   {
     "_id": "63581318fb8bc5de7922e637",
     "courses_id": 4,
-    "picture": "https://www.google.com/search?q=javascript+pic&tbm=isch&ved=2ahUKEwiDyISb3fv6AhXjiOYKHVnlDhIQ2-cCegQIABAA&oq=javas+pic&gs_lcp=CgNpbWcQARgAMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yCAgAEAgQBxAeMggIABAIEAcQHjIJCAAQgAQQChAYMgkIABCABBAKEBg6BAgjECc6BQgAEIAEOgYIABAIEB46CAgAEIAEELEDOgsIABCABBCxAxCDAToECAAQQ1CICVjFL2CtN2gAcAB4AIABvAGIAZgJkgEDMC43mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=EgVYY4P3DOORmgfZyruQAQ&bih=625&biw=1366&rlz=1C1YTUH_enBD1011BD1011",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwMYfXwqnJjxmBkBXmO2le8N8smCqT-84vQ&usqp=CAU",
     "name": "JAVASCRIPT",
     "des": "About this course You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites  and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.Build core programming concepts. Learn object-oriented concepts. Read and write JavaScript syntax "
   },
